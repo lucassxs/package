@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Pacote de teste no npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassxs/package.git"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "Lucas Stefano Xavier de Sousa <lucassxs.sp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucassxs/package/issues"
+  },
+  "homepage": "https://github.com/lucassxs/package#readme"
+}
